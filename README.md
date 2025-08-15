@@ -13,8 +13,6 @@ Before starting, make sure you have:
 - Operating system: Windows, Mac, or Linux
 - Internet connection (to install libraries)
 
----
-
 ## 2. Clone the Repository
 
 Clone this repository to your local machine:
