@@ -23,8 +23,8 @@ cd Prediksi_Kelulusan
 ## 3. Create a Virtual Environment
 
 Windows:
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 ## 4. Install Dependencies
 
