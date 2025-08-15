@@ -19,17 +19,19 @@ Before starting, make sure you have:
 
 Clone this repository to your local machine:
 
-```bash
 git clone https://github.com/NadiyahQasamah/Prediksi_Kelulusan.git
 cd Prediksi_Kelulusan
 
-**Create a Virtual Environment**
+## 3. Create a Virtual Environment
+
 Windows:
 python -m venv venv
 venv\Scripts\activate
 
-**Instal Dependencies**
-pip install streamlit
+## 4. Install Dependencies
 
-**Run the Apps**
+pip install streamlit
+pip install python 3.10
+
+## 5. Run the Apps
 streamlit run Akademik.py
