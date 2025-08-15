@@ -28,8 +28,9 @@ Windows:
 
 ## 4. Install Dependencies
 
-pip install streamlit
-pip install python 3.10
+- pip install streamlit
+- pip install python 3.10
+- pip install pycaret (optional)
 
 ## 5. Run the Apps
 streamlit run Akademik.py
