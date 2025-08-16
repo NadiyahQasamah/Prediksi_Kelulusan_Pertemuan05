@@ -35,3 +35,8 @@ Windows:
 
 ## 5. Run the Apps
 streamlit run Akademik.py
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e1e0bb12-ef16-4782-9214-9069b68c6bb6" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c016ce65-3212-4567-89ba-680296e4cb7b" />
+
+
