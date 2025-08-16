@@ -18,6 +18,7 @@ Before starting, make sure you have:
 Clone this repository to your local machine:
 
 git clone https://github.com/NadiyahQasamah/Prediksi_Kelulusan.git
+
 cd Prediksi_Kelulusan
 
 ## 3. Create a Virtual Environment
